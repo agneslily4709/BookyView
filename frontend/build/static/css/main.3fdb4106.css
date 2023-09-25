@@ -1,0 +1,2 @@
+body{font-family:Merriweather,serif;margin:0}.commonClass{margin-top:100px}.content{display:grid;grid-template-columns:auto auto}.cardItems{box-shadow:0 14px 28px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22);font-size:15px;margin:20px}.cardItems,.input{border:20px solid navy}.input{margin-top:120px}.input,.items{padding:20px}.inputTag{margin-top:20px}@media screen and (max-width:360px){.content{display:grid;grid-template-columns:auto}*{font-size:10px}.cardItems{margin:15px}.items{padding:5px}}
+/*# sourceMappingURL=main.3fdb4106.css.map*/
